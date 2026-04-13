@@ -2,12 +2,12 @@
 
 ## Quote Summary
 
-| Quote | Company | Price | Type | SEER |
-|-------|---------|-------|------|------|
-| Replace AC | Bull Mountain | $7,408 | AC only | 15 SEER |
-| Variable Speed Heat Pump | Bull Mountain | $12,435 | Heat Pump | ~17 SEER |
-| Trane XR13 AC | Able Heating | $8,450 | AC only | 13 SEER |
-| Trane 16 SEER Multi Speed | Able Heating | $10,500 | Heat Pump | 15.6 SEER |
+| Quote | Company | Price | Type | Model | SEER2 |
+|-------|---------|-------|------|-------|-------|
+| Replace AC | Bull Mountain | $7,408 | AC only | Rheem RA15AY30 | 15.2 |
+| Variable Speed Heat Pump | Bull Mountain | $12,435 | Heat Pump | Rheem RD18AY36 | 18-19 |
+| Trane XR13 AC | Able Heating | $8,450 | AC only | Trane 5TTR3030A | 13.4 |
+| Trane 16 SEER Multi Speed | Able Heating | $10,500 | Heat Pump | Trane 5HPL5036A | 15.6 |
 
 ---
 
@@ -28,65 +28,105 @@
 
 ---
 
-## Pros & Cons
+## Equipment Specifications
 
-### Replace AC ($7,408) - Bull Mountain
+### Replace AC - Rheem RA15AY30 ($7,408)
+
+**Specs:**
+- 2.5 Ton (30,000 BTU)
+- 15.2 SEER2 / 13 EER2
+- R-454B refrigerant (low GWP, eco-friendly)
+- Single-stage scroll compressor
+- 7mm condenser coil (less refrigerant, lighter footprint)
+- Swept wing fan (quieter operation)
+- 10-year parts warranty
 
 **Pros:**
 - Lowest cost
-- 15 SEER (decent efficiency)
-- Rheem brand with 10-year parts warranty
-- Better-rated company (4.9 Google vs 4.9 Angi - but more reviews)
+- Good efficiency for AC only
+- Modern refrigerant (R-454B)
+- Quiet for a single-stage unit
+- Better-rated company
 
 **Cons:**
 - AC only (no heating)
-- Indoor coil sold separately (potential extra cost)
+- Single-stage (less precise temp control)
+- Indoor coil sold separately
 
 ---
 
-### Variable Speed Heat Pump ($12,435) - Bull Mountain
+### Variable Speed Heat Pump - Rheem RD18AY36 ($12,435)
+
+**Specs:**
+- 3 Ton (36,000 BTU)
+- 18-19 SEER2 / 13 EER2 / 10 HSPF2
+- R-454B refrigerant
+- Variable speed twin rotary compressor (45-100% capacity)
+- EcoNet enabled + Bluetooth
+- Sound rating: as low as 50dB
+- 10-year parts warranty
 
 **Pros:**
 - Highest efficiency
 - Variable speed = best humidity/temp control
 - Quietest operation (50dB)
-- EcoNet smart features
+- Smart home integration (EcoNet)
 - Heat pump provides both heating and cooling
-- Better-rated company
+- Qualifies for federal tax credit (up to $2,000)
 
 **Cons:**
+- ⚠️ **Contractor reports reliability concerns** - Some HVAC techs reporting A812 drive failures and T921 compressor faults (mainly 3-ton units)
 - Most expensive option
 - Doesn't include thermostat
 
 ---
 
-### Trane XR13 AC ($8,450) - Able Heating
+### Trane XR13 AC - 5TTR3030A1000A ($8,450)
+
+**Specs:**
+- 2.5 Ton (30,000 BTU)
+- 13.4 SEER2
+- R-454B refrigerant
+- Single-stage scroll compressor (Climatuff)
+- Spine Fin all-aluminum coil
+- Sound level: 73 dB
+- 10-year parts + compressor warranty
 
 **Pros:**
-- Trane brand quality
+- Trane brand quality (industry leader)
 - Includes evaporator coil
+- Proven reliable compressor design
 - 10-year parts + compressor warranty
-- Longer in business (30 years)
 
 **Cons:**
-- Lowest SEER (13)
+- Lowest SEER (13.4)
+- Loudest unit (73 dB)
 - AC only (no heating)
-- Company has some negative reviews about responsiveness
+- Single-stage
 
 ---
 
-### Trane 16 SEER Multi Speed ($10,500) - Able Heating
+### Trane 16 SEER Multi Speed - 5HPL5036A ($10,500)
+
+**Specs:**
+- Heat pump
+- 15.6 SEER2 / 8.1 HSPF2
+- Multi-stage operation
+- Includes Trane TCONT824 WiFi thermostat
+- Dual fuel capable
+- 10-year parts + compressor warranty
+- 2-year labor warranty
 
 **Pros:**
 - Heat pump (heating + cooling)
 - Includes WiFi thermostat ($400+ value)
-- 10-year parts + compressor warranty
-- 2-year labor warranty
+- Multi-stage for better comfort
+- 2-year labor warranty (unique)
 - Dual fuel capable
+- Better efficiency than XR13
 
 **Cons:**
 - More expensive than AC options
-- Company has some negative reviews about responsiveness
 
 ---
 
@@ -94,11 +134,16 @@
 
 **Best Value Heat Pump: Trane 16 SEER Multi Speed ($10,500)** - Able Heating
 
-You get heating + cooling, the WiFi thermostat, 2yr labor warranty, and better efficiency - for only ~$2k more than an AC. The variable speed heat pump is $1,900 more but doesn't include a thermostat.
+Best overall value. Includes WiFi thermostat, 2-year labor warranty, multi-stage operation, and dual fuel capability. Efficient heat pump that works year-round.
 
 **Best Budget Option: Replace AC ($7,408)** - Bull Mountain
 
-If you only need cooling, Bull Mountain's 15 SEER Rheem unit is the lowest cost option with decent efficiency. Bull Mountain also has a slightly better overall reputation (824 Google reviews vs 424 Angi reviews) and is known for honest, no-pressure sales.
+If you only need cooling, Bull Mountain's 15.2 SEER Rheem RA15AY is the best deal. Modern R-454B refrigerant, good efficiency, and the company has a better reputation for honest service.
 
-**Note on Company Choice:**
-Both companies have excellent ratings (4.9 stars). Bull Mountain is newer to the scene but has an "honest, no pushy sales" approach. Able Heating has been around longer (30 years) but has had some complaints about responsiveness. For peace of mind, Bull Mountain's service-first philosophy may be preferable.
+**Skip: Variable Speed Heat Pump ($12,435)**
+
+Despite highest efficiency, the Rheem RD18 has concerning contractor feedback about reliability issues. Save your money or choose the Trane heat pump instead.
+
+**Skip: Trane XR13 ($8,450)**
+
+The lowest SEER and loudest unit. Only makes sense if budget is tight and you need a basic AC.
